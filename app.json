@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sample-dynamic-forms",
+    "slug": "sample-dynamic-forms",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sample-dynamic-forms"
+}
